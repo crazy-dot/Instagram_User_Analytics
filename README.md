@@ -1,8 +1,6 @@
 The aim of the project is to analyse Instagram – a popular free social media platform which allows its users to share photos, videos and also interact with others’ content. 
-The main objective here, is to analyse the interaction of user and their engagements to various contents posted in the platform. The valuable insights gained from this analysis is then used to derive meaningful decisions that can help business grow.
-
-Analysing Instagram user data is important because it helps us in understanding the 
-audiences that are using the platform, identify trends and their success and failure rate. The insights gained from this project can actually be used by local business holders to other important business players in advancing the product design, user experience, marketing and advertising etc.
+The main objective here, is to analyse the interaction of user and their engagements to various contents posted in the platform.
+The insights gained from this project can actually be used by local business holders to other important business players in advancing the product design, user experience, marketing and advertising etc.
 
 Tech Stack Used
 1) MySQL Workbench - used for writing, execute and debug SQL queries. It’s database design allows us to create and edit ER diagrams to visually model database structures
